@@ -1,6 +1,10 @@
 # ZombieRunner
 Unity 3.1.2 First Person Shooter Game <br>
 - 3 weapons with loot system. <br>
+- WASD to move
+- Wheel to chagne weapon
+- Left click to shoot
+- Mouse to aim
 
 Playable builds: https://drive.google.com/drive/folders/1rw-LVDvtLYIsU4ULWaYJAX4EzjW52GC5?usp=drive_link
 

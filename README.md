@@ -1,5 +1,6 @@
 # ZombieRunner
 Unity 3.1.2 First Person Shooter Game <br>
+3 weapons with loot system. <br>
 
 Playable builds: https://drive.google.com/drive/folders/1rw-LVDvtLYIsU4ULWaYJAX4EzjW52GC5?usp=drive_link
 

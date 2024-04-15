@@ -2,7 +2,7 @@
 Unity 3.1.2 First Person Shooter Game <br>
 - 3 weapons with loot system. <br>
 - WASD to move
-- Wheel to chagne weapon
+- Wheel to change weapon
 - Left click to shoot
 - Mouse to aim
 
